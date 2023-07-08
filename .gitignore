@@ -2,3 +2,5 @@ out/
 scraped/
 assets/
 *.mp3
+Pipfile
+Pipfile.lock
